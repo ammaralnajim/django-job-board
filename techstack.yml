@@ -2,7 +2,7 @@ repo_name: ammaralnajim/django-job-board
 report_id: a3abc2ff3433b00892d439cf66186578
 version: 0.1
 repo_type: Public
-timestamp: '2023-12-20T18:35:33+00:00'
+timestamp: '2024-01-05T08:19:28+00:00'
 requested_by: Pythondeveloper6
 provider: github
 branch: master
@@ -16,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/ammaralnajim/django-job-board
   detection_source: Repo Metadata
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -26,6 +27,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/ammaralnajim/django-job-board
   detection_source: Repo Metadata
 - name: PHP
   description: A popular general-purpose scripting language that is especially suited
@@ -36,6 +38,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/991/hwUcGZ41_400x400.jpg
+  detection_source_url: https://github.com/ammaralnajim/django-job-board
   detection_source: Repo Metadata
 - name: Python
   description: A clear and powerful object-oriented programming language, comparable
@@ -46,6 +49,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/ammaralnajim/django-job-board
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -55,6 +59,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/ammaralnajim/django-job-board
   detection_source: Repo Metadata
 - name: PyPI
   description: A repository of software for the Python programming language
@@ -64,6 +69,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Hosted Package Repository
   image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/ammaralnajim/django-job-board/blob/master/requirements.txt
   detection_source: requirements.txt
   last_updated_by: Pythondeveloper6
   last_updated_on: 2020-05-26 00:40:27.000000000 Z
@@ -75,6 +81,7 @@ tools:
   category: Communications
   sub_category: Large Language Model Tools
   image_url: https://img.stackshare.io/service/48790/default_5b6c6b73f1ff3775c85d2a1ba954cb87e30cbf13.jpg
+  detection_source_url: https://github.com/ammaralnajim/django-job-board/blob/master/Frontend-Template/readme.txt
   detection_source: Frontend-Template/readme.txt
   last_updated_by: Pythondeveloper6
   last_updated_on: 2020-05-25 21:13:08.000000000 Z
@@ -100,18 +107,18 @@ tools:
     detected_date: Sep 23
     severity: critical
     first_patched: 3.1.13
-  - name: Path Traversal in Django
-    cve_id: CVE-2021-31542
-    cve_url: https://github.com/advisories/GHSA-rxjp-mfm9-w4wr
-    detected_date: Aug 22
-    severity: high
-    first_patched: 3.1.9
   - name: Potential bypass of an upstream access control based on URL paths in Django
     cve_id: CVE-2021-44420
     cve_url: https://github.com/advisories/GHSA-v6rh-hp5x-86rv
     detected_date: Dec 14
     severity: high
     first_patched: 3.1.14
+  - name: Path Traversal in Django
+    cve_id: CVE-2021-31542
+    cve_url: https://github.com/advisories/GHSA-rxjp-mfm9-w4wr
+    detected_date: Aug 22
+    severity: high
+    first_patched: 3.1.9
   - name: Directory Traversal in Django
     cve_id: CVE-2021-28658
     cve_url: https://github.com/advisories/GHSA-xgxc-v2qg-chmh
