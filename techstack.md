@@ -30,7 +30,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [ammaralnajim/django-job-board](https://github.com/ammaralnajim/django-job-board)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|11<br/>Tools used|12/20/23 <br/>Report generated|
+|11<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -112,7 +112,7 @@ Full tech stack [here](/techstack.md)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
-|[Django](https://pypi.org/project/Django)|v3.0.6|05/26/20|Pythondeveloper6 |BSD-3-Clause|[CVE-2021-35042](https://github.com/advisories/GHSA-xpfp-f569-q3p2) (Critical)<br/>[CVE-2021-31542](https://github.com/advisories/GHSA-rxjp-mfm9-w4wr) (High)<br/>[CVE-2021-44420](https://github.com/advisories/GHSA-v6rh-hp5x-86rv) (High)<br/>[CVE-2021-28658](https://github.com/advisories/GHSA-xgxc-v2qg-chmh) (Moderate)|
+|[Django](https://pypi.org/project/Django)|v3.0.6|05/26/20|Pythondeveloper6 |BSD-3-Clause|[CVE-2021-35042](https://github.com/advisories/GHSA-xpfp-f569-q3p2) (Critical)<br/>[CVE-2021-44420](https://github.com/advisories/GHSA-v6rh-hp5x-86rv) (High)<br/>[CVE-2021-31542](https://github.com/advisories/GHSA-rxjp-mfm9-w4wr) (High)<br/>[CVE-2021-28658](https://github.com/advisories/GHSA-xgxc-v2qg-chmh) (Moderate)|
 |[asgiref](https://pypi.org/project/asgiref)|v3.2.7|05/26/20|Pythondeveloper6 |BSD-3-Clause|N/A|
 |[pytz](https://pypi.org/project/pytz)|v2020.1|05/26/20|Pythondeveloper6 |MIT|N/A|
 |[sqlparse](https://pypi.org/project/sqlparse)|v0.3.1|05/26/20|Pythondeveloper6 |BSD-3-Clause|[CVE-2023-30608](https://github.com/advisories/GHSA-rrm6-wvj7-cwh2) (Moderate)|
